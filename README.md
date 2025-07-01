@@ -1,6 +1,6 @@
 # Minecraft-3D
 
-You can use this project for try to make 3D minecraft.
+You can use this project to try to make 3D Minecraft.
 
 How to download and run the file:-
 
@@ -23,5 +23,7 @@ Step-4
 Run this code in Terminal.
 
 CONGRATULATIONS, YOU HAVE FINALLY GENERATED YOUR VERY OWN CUSTOM PASSWORD!!!
+
+Go to this:- https://www.youtube.com/@Lurax_Gamer?sub_confirmation=1
 
 #3D@Simple@Minecraft#
