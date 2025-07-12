@@ -10,7 +10,7 @@ Download the .py file
 
 Step-2
 
-Use an IDE to open the code, such as CMD, Powershell, and even VSC
+Use an IDE to open the code, such as CMD, Powershell, and even VS Code
 
 Step-3
 
@@ -22,7 +22,7 @@ Step-4
 
 Run this code in Terminal.
 
-CONGRATULATIONS, YOU HAVE FINALLY GENERATED YOUR VERY OWN CUSTOM PASSWORD!!!
+CONGRATULATIONS, YOU HAVE FINALLY CREATED 3D MINECRAFT!!!
 
 Go to this:- https://www.youtube.com/@Lurax_Gamer?sub_confirmation=1
 
